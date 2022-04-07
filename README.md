@@ -1,4 +1,16 @@
-### Hi there 👋
+
+<h1>Hola mi nombre es Franco Pesenda :D 👋</h1>
+
+<div>
+  <p> Lo que mas manejo :D</p>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoPesenda&theme=radical">
+  </img>
+</div>
+<div>
+  <p> Aca esta mi trabajo :)</p>
+  <img src = "https://github-readme-stats.vercel.app/api?username=FrancoPesenda&show_icons=true&theme=radical">
+  </img>
+</div>
 
 <!--
 **FrancoPesenda/FrancoPesenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
